@@ -1,0 +1,6 @@
+period,age_group,income_below_100fpl_pct,income_100_200fpl_pct,income_200plus_fpl_pct,insured_private_pct,insured_public_pct,uninsured_pct,source
+2020-2022,5-17,14.8,12.2,10.1,9.7,14.4,6.3,"CDC NCHS Data Brief No.499 (NHIS)"
+2020-2022,5-11,12.1,10.3,7.1,6.8,11.6,5.9,"CDC NCHS Data Brief No.499 (NHIS)"
+2020-2022,12-17,18.0,14.4,13.4,12.8,17.6,6.7,"CDC NCHS Data Brief No.499 (NHIS)"
+1998-2000,5-17,7.5,7.0,,,,,"CDC NCHS Data Brief No.70 (NHIS)"
+2007-2009,5-17,10.3,10.6,,,,,"CDC NCHS Data Brief No.70 (NHIS)"

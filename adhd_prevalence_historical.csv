@@ -1,0 +1,9 @@
+year,period,overall_pct,boys_pct,girls_pct,white_nonhispanic_pct,black_nonhispanic_pct,hispanic_pct,age_5_11_pct,age_12_17_pct,source
+1998,1998-2000,6.9,9.9,3.6,8.2,5.1,,,,"CDC NCHS Data Brief No.70 (NHIS)"
+2001,2001-2003,7.4,,,,,,,,"CDC NCHS Data Brief No.70 (NHIS)"
+2004,2004-2006,8.0,,,,,,,,"CDC NCHS Data Brief No.70 (NHIS)"
+2007,2007-2009,9.0,12.3,5.5,10.6,9.5,,,,"CDC NCHS Data Brief No.70 (NHIS)"
+1997,1997-1999,7.0,,,8.4,5.5,3.8,,,"CDC MMWR QuickStats (NHIS)"
+2012,2012-2014,10.2,,,12.5,9.6,6.4,,,"CDC MMWR QuickStats (NHIS)"
+2015,2015-2016,10.2,14.0,6.3,,,,,,"PubMed JAMA 2018 (NHIS)"
+2020,2020-2022,11.3,14.5,8.0,13.4,10.8,8.9,8.6,14.3,"CDC NCHS Data Brief No.499 (NHIS)"
