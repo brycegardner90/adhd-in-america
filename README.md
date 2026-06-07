@@ -179,5 +179,5 @@ Children living below the federal poverty line are diagnosed at **14.8%** — ne
 | # | Project | Tools |
 |---|---------|-------|
 | **1** | **ADHD in America: A 25-Year Analysis** | **Python, SQLite, Power BI** |
-| 2 | Opioid Crisis Analysis — Coming Soon | TBD |
-| 3 | Mental Health & Depression Trends — Coming Soon | TBD |
+| 2 | [The Opioid Crisis: A 25-Year Analysis](https://github.com/brycegardner90/opioid-crisis-analysis) | Python, SQLite, Power BI |
+| 3 | [Mental Health in America: Trends & Treatment Gaps](https://github.com/brycegardner90/mental-health-trends) | Python, SQLite, Power BI |
